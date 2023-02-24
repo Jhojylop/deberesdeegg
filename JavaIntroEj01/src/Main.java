@@ -14,7 +14,7 @@ public class Main {
         long datos = 23;
         int intento1 = 5;
         int intento2 = 8;
-        double resultadodiv = (double)intento1/intento2;
+        double resultadodiv =(double)intento1/intento2;
         double resultadosum = intento1+intento2;
         boolean respuesta1 = intento1<intento2;
         boolean respuesta2 = intento1==intento2;
@@ -29,8 +29,11 @@ public class Main {
         leyendo.nextLine(); // Limpia el buffer de entrada
         System.out.println("ingrese su apellido: ");
         String apellido = leyendo.nextLine();
-        System.out.println("su nomnre es: "+nombre2);
+        System.out.println("su nombre es: "+nombre2);
         System.out.println("su edad es: "+edad+" años");
         System.out.println("su apellido es: "+apellido);
+        System.out.println(nombre);
+        System.out.println(numero);
+        System.out.println(resultadodiv);
     }
 }
