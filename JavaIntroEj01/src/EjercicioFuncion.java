@@ -21,18 +21,23 @@ public class EjercicioFuncion {
 
             switch (letra) {
                 case "a":
+                case "A":
                     newPhrase = newPhrase.concat("@");
                     break;
                 case "e":
+                case "E":
                     newPhrase = newPhrase.concat("#");
                     break;
                 case "i":
+                case "I":
                     newPhrase = newPhrase.concat("$");
                     break;
                 case "o":
+                case "O":
                     newPhrase = newPhrase.concat("%");
                     break;
                 case "u":
+                case "U":
                     newPhrase = newPhrase.concat("*");
                     break;
                 default:
@@ -54,6 +59,11 @@ public class EjercicioFuncion {
         replacements.put("i", "$");
         replacements.put("o", "%");
         replacements.put("u", "*");
+        replacements.put("A", "@");
+        replacements.put("E", "#");
+        replacements.put("I", "$");
+        replacements.put("O", "%");
+        replacements.put("U", "*");
 
         for (int i = 0; i < phrase.length(); i++) {
             String letra = String.valueOf(phrase.charAt(i));

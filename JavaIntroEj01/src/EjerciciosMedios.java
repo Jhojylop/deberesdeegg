@@ -35,7 +35,7 @@ public class EjerciciosMedios {
                     System.out.println("esta seguro que desea salir? escoja S/N");
                     leyendo.nextLine();
                     eleccion = leyendo.nextLine();
-                    if (eleccion.equals("S")) {
+                    if (eleccion.toUpperCase().equals("S")) {
                         System.out.println("ha esogido la opcion si, adios...");
                         contador = 1;
                     }

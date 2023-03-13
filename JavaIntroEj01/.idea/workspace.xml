@@ -53,37 +53,37 @@
       <recent name="C:\Users\ASUS\Documents\deberesdeegg\JavaIntroEj01\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArregloCuadrado">
-    <configuration name="ArregloCuadrado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArregloCuadrado" />
+  <component name="RunManager" selected="Application.EjercicioExtra13">
+    <configuration name="EjercicioExtra10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjercicioExtra10" />
       <module name="JavaIntroEj01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContinuacionAmarillo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ContinuacionAmarillo" />
+    <configuration name="EjercicioExtra11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjercicioExtra11" />
       <module name="JavaIntroEj01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DispositivoR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DispositivoR" />
+    <configuration name="EjercicioExtra12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjercicioExtra12" />
       <module name="JavaIntroEj01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjercicioGuia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjercicioGuia" />
+    <configuration name="EjercicioExtra13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjercicioExtra13" />
       <module name="JavaIntroEj01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjerciciosMedios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosMedios" />
+    <configuration name="EjercicioFuncion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjercicioFuncion" />
       <module name="JavaIntroEj01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArregloCuadrado" />
-        <item itemvalue="Application.DispositivoR" />
-        <item itemvalue="Application.EjerciciosMedios" />
-        <item itemvalue="Application.EjercicioGuia" />
-        <item itemvalue="Application.ContinuacionAmarillo" />
+        <item itemvalue="Application.EjercicioExtra13" />
+        <item itemvalue="Application.EjercicioExtra12" />
+        <item itemvalue="Application.EjercicioFuncion" />
+        <item itemvalue="Application.EjercicioExtra11" />
+        <item itemvalue="Application.EjercicioExtra10" />
       </list>
     </recent_temporary>
   </component>
@@ -115,11 +115,30 @@
       <workItem from="1677200361612" duration="15099000" />
       <workItem from="1677269389298" duration="21898000" />
       <workItem from="1677361590895" duration="11317000" />
-      <workItem from="1677530196540" duration="392000" />
+      <workItem from="1677530196540" duration="6997000" />
+      <workItem from="1677630151819" duration="13241000" />
+      <workItem from="1677703808814" duration="13164000" />
+      <workItem from="1677802032856" duration="6174000" />
+      <workItem from="1678149736959" duration="7466000" />
+      <workItem from="1678235727983" duration="11802000" />
+      <workItem from="1678321668670" duration="8461000" />
+      <workItem from="1678403193443" duration="15988000" />
+      <workItem from="1678474301132" duration="9576000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EjercicioExtra13.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
