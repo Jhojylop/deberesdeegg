@@ -124,21 +124,13 @@
       <workItem from="1678321668670" duration="8461000" />
       <workItem from="1678403193443" duration="15988000" />
       <workItem from="1678474301132" duration="9576000" />
+      <workItem from="1678725704342" duration="2578000" />
+      <workItem from="1678745814654" duration="23000" />
+      <workItem from="1678927423271" duration="905000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/EjercicioExtra13.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
