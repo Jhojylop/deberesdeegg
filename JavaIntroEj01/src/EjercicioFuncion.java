@@ -45,7 +45,6 @@ public class EjercicioFuncion {
 
             }
 
-
         }
 
         return newPhrase;
