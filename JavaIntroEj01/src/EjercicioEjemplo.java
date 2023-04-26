@@ -2,8 +2,8 @@ import java.sql.SQLOutput;
 
 public class EjercicioEjemplo {
     public static void main(String[] args) {
-        int base = 25;
-        int vidas = 3;
+        int base = 16;
+        int vidas = 5;
         int contadorFallos = 3;
         int con = 2 + contadorFallos;
         int altura = 7 + vidas;
@@ -35,14 +35,7 @@ public class EjercicioEjemplo {
                     ahorcado [i][j] = "l";
                 } else if (i == altura - 4 && j == 14) {//CREA EL BRAZI DERECHO
                     ahorcado [i][j] = "l  ";
-                } else if (i == 3 && j == 15) {
-                    ahorcado [i][j] = mensaje;
-
-                    //for (int k = 0; k < mensaje.length() ;k++) {
-                      //  ahorcado[i][j] = mensaje.substring(k,k+1);
-                    //}
-
-                } else{
+                }  else{
                     ahorcado [i][j] = "  ";//IMPRIME ESPACIOS VACIOS...
                 }
             }

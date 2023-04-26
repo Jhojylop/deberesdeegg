@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AHORCADO2.0/AHORCADO2.0.iml" filepath="$PROJECT_DIR$/AHORCADO2.0/AHORCADO2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COLEjApredizaje01/COLEjApredizaje01.iml" filepath="$PROJECT_DIR$/COLEjApredizaje01/COLEjApredizaje01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COLEjAprendizaje02/COLEjAprendizaje02.iml" filepath="$PROJECT_DIR$/COLEjAprendizaje02/COLEjAprendizaje02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COLEjAprendizaje03/COLEjAprendizaje03.iml" filepath="$PROJECT_DIR$/COLEjAprendizaje03/COLEjAprendizaje03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COLLECTIONS/COLLECTIONS.iml" filepath="$PROJECT_DIR$/COLLECTIONS/COLLECTIONS.iml" />
       <module fileurl="file://$PROJECT_DIR$/EJEMPLO/EJEMPLO.iml" filepath="$PROJECT_DIR$/EJEMPLO/EJEMPLO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ejercicio05LuisCuenta/Ejercicio05LuisCuenta.iml" filepath="$PROJECT_DIR$/Ejercicio05LuisCuenta/Ejercicio05LuisCuenta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTERFACES/INTERFACES.iml" filepath="$PROJECT_DIR$/INTERFACES/INTERFACES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTERFAZ2/INTERFAZ2.iml" filepath="$PROJECT_DIR$/INTERFAZ2/INTERFAZ2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUEGO2/JUEGO2.iml" filepath="$PROJECT_DIR$/JUEGO2/JUEGO2.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaIntroEj01/JavaIntroEj01.iml" filepath="$PROJECT_DIR$/JavaIntroEj01/JavaIntroEj01.iml" />
       <module fileurl="file://$PROJECT_DIR$/POOEJExtra05/POOEJExtra05.iml" filepath="$PROJECT_DIR$/POOEJExtra05/POOEJExtra05.iml" />
       <module fileurl="file://$PROJECT_DIR$/POOEj01/POOEj01.iml" filepath="$PROJECT_DIR$/POOEj01/POOEj01.iml" />
@@ -21,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/POOEjExtra03/POOEjExtra03.iml" filepath="$PROJECT_DIR$/POOEjExtra03/POOEjExtra03.iml" />
       <module fileurl="file://$PROJECT_DIR$/POOEjExtra04/POOEjExtra04.iml" filepath="$PROJECT_DIR$/POOEjExtra04/POOEjExtra04.iml" />
       <module fileurl="file://$PROJECT_DIR$/POOEjExtra06Haorcado/POOEjExtra06Haorcado.iml" filepath="$PROJECT_DIR$/POOEjExtra06Haorcado/POOEjExtra06Haorcado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POOEjExtra07/POOEjExtra07.iml" filepath="$PROJECT_DIR$/POOEjExtra07/POOEjExtra07.iml" />
       <module fileurl="file://$PROJECT_DIR$/Veterinaria/Veterinaria.iml" filepath="$PROJECT_DIR$/Veterinaria/Veterinaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/deberesdeegg.iml" filepath="$PROJECT_DIR$/.idea/deberesdeegg.iml" />
     </modules>
