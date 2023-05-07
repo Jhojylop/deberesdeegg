@@ -31,8 +31,8 @@ public class AlumnoService {
         } else {
             double promedio = sumaNotas(alumno) / notasTotales;
             System.out.println("EL promedio del estudiante "
-                    + alumnoBuscar + " es : "
-                    + String.format("%.2f", promedio));
+                                + alumnoBuscar + " es : "
+                                + String.format("%.2f", promedio));
         }
     }
 
